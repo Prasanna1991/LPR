@@ -4,7 +4,7 @@ LPR(License Plate Recognition) dataset contains the cropped image of license pla
 
 ## Sample
 <p align="center">
-![](https://github.com/Prasanna1991/LPR/blob/master/samples.png)
+![](https://github.com/Prasanna1991/LPR/blob/master/samples.png?raw=true)
 </p>
 
 
