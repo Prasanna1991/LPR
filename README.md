@@ -1,6 +1,6 @@
 # LPR
 
-LPR(License Plate Recognition) dataset contains the cropped image of license plate of private motorbikes in Bagmati zone in Nepal. And thus contains the 12 different classes: ०-९, बा and प. 
+LPR(License Plate Recognition) dataset contains the cropped image of license plate of private motorbikes in Bagmati zone in Nepal. And thus contains the 12 different classes: ०-९, बा and प. **images.rar** is the compressed file for Image folder which has 12 sub folders each corresponding to the class.
 
 Dataset is only allowed for research purposes and if you use this dataset in your work, please cite it as follows:
 
